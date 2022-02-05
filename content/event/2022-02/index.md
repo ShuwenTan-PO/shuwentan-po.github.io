@@ -2,7 +2,7 @@
 title: Hydraulically Controlled Flow in Abyssal Ocean Passages
 
 event: Atmospheres and Oceans Seminar at Johns Hopkins University
-event_url: https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c911ad0-5d39-46f9-a0b1-ae30012ce81e
+# event_url: https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c911ad0-5d39-46f9-a0b1-ae30012ce81e
 
 location: Department of Earth and Planetary Sciences, Johns Hopkins University
 # address:
@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Recording**](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c911ad0-5d39-46f9-a0b1-ae30012ce81e)'
+  caption: 'Image credit: [**Recording**]()'
   focal_point: Right
 
 # links:
