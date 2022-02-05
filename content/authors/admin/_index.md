@@ -10,7 +10,7 @@ role: Postdoctoral Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Columbia University | Lamont-Doherty Earth Observatory
+- name: Columbia University of Lamont-Doherty Earth Observatory
   url: https://lamont.columbia.edu/
 
 # Short bio (displayed in user profile at end of posts)
