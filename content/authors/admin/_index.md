@@ -14,8 +14,7 @@ organizations:
   url: https://lamont.columbia.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in studying the flow-topography interaction in the deep ocean \& in a changing climate. I am also interested in using data-driven analysis \& machine learning to interpret physics from the accumulating mass of
-ocean data.
+bio: Human oceanographer
 
 # Interests to show in About widget
 interests:
