@@ -18,22 +18,22 @@ bio: Human oceanographer
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Flow over Topography
+- Data-driven Analysis
+- Deep Ocean Circulation
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Physical Oceanography
+    institution: University of Chinese Academy of Sciences
+    year: 2020
+  - course: BS in Marine Science
+    institution: Ocean University of China
+    year: 2014
+  # - course: Guest Student
+  #   institution: Woods Hole Oceanographic Institution
+  #   year: 2017-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
