@@ -7,7 +7,12 @@ title: "Hydraulic control of flow in a multi-passage system connecting two basin
 authors:
 - admin
 - L. J. Pratt
-- et al.
+- G. Voet
+- J. M. Cusack
+- K. Helfrich
+- M. H. Alford
+- J. B. Girton
+- G. S. Carter
 
 # # Author notes (optional)
 # author_notes:
@@ -27,8 +32,8 @@ publishDate: "2022-02-04T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Fluid Mechanics*
-publication_short: In *JFM*
+publication: Under Review by *Journal of Fluid Mechanics*
+publication_short: Under Review by *JFM*
 
 abstract: Rotating hydraulic theory for flow in a multi-passage system
 
