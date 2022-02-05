@@ -47,10 +47,10 @@ social:
   icon_pack: fab
   link: https://github.com/ShuwenTan-PO
 - icon: researchgate
-  icon_pack: f4f8
+  icon_pack: fab
   link: https://www.researchgate.net/profile/Shuwen-Tan-4
 - icon: orcid
-  icon_pack: f8d2
+  icon_pack: fab
   link: https://orcid.org/0000-0002-4598-3472
 # - icon: linkedin
 #   icon_pack: fab
