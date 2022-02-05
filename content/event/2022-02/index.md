@@ -42,7 +42,7 @@ image:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c911ad0-5d39-46f9-a0b1-ae30012ce81e"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

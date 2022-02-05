@@ -1,10 +1,10 @@
 ---
-title: Hydraulically Controlled Flow in Abyssal Ocean Passages
+title: Decadal changes in stratification of the abyssal oceans and implications for hydraulic control of abyssal channel flow
 
-event: Atmospheres and Oceans Seminar at Johns Hopkins University
+event: Ocean Sciences Meeting, PL05-09
 event_url: https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c911ad0-5d39-46f9-a0b1-ae30012ce81e
 
-location: Department of Earth and Planetary Sciences, Johns Hopkins University
+location: Virtual Meeting
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -12,13 +12,13 @@ location: Department of Earth and Planetary Sciences, Johns Hopkins University
 #   postcode: '94305'
 #   country: United States
 
-summary: Rotating & internal hydraulic control, theory & application to the deep ocean passages.
-abstract: "As a flow passes over a sill or through a topographic saddle point, given adequate upstream conditions, it is possible that the flow is hydraulically controlled, meaning the structure and transport of the flow are regulated by the topography. The lower limb of the Meridional Overturning Circulation (MOC) passes a number of passages where it is under hydraulic control. The hydraulic theory can thus serve as a tool to 1) estimate the structure and transport of flow without taking direct velocity measurements; 2) monitor the change of the MOC. This talk starts with a brief overview of the hydraulic theory, emphasizing the fundamentals and two flavors of hydraulic control: 1) for a rotating flow; 2) for a stratified flow. This leads to the second and third parts of the talk, each contains a theory study and an example of application to the MOC. In the second part, a rotating hydraulic control theory is proposed to estimate the transport partition of an inflow that splits into two passages, one being hydraulically controlled and the other is not. An application is the Antarctic Bottom Water carried by the MOC entering the Samoan Passage in the Southern Pacific Ocean, where it is hydraulically controlled, while the remainder is diverted around the Manihiki Plateau and is not controlled. A numerical model is employed to explore novel features of hydraulic control under the Earth’s rotation and verify the necessity of friction along the uncontrolled passage for a persisting hydraulic control in the other passage. In the third part, hydraulic theory for a continuously stratified flow with a strongly stratified interface is proposed to explore how the change in upstream stratification affects hydraulic control. The theory is applied to the lowing interface and the reducing magnitude of the stratification profile upstream of the Samoan Passage from the 1990s to the 2010s. We note similar decadal changes in stratification upstream of the Vema Channel connecting the Argentine and the Brazil Basins and a deep fracture zone canyon in the eastern Brazil Basin have been found from repeated hydrographic observations and similar interpretation can be made from hydraulic theory."
+summary: Hydraulic control meets un-uniform stratification, theory & implication to the deep ocean decadal changes.
+abstract: "The observed bottom-intensified warming in the Antarctic Bottom Water (AABW) over the past few decades suggests a reduction in density stratification. By examining the hydrographic data from the WOCE/CLIVAR/GO-SHIP repeat sections over the past three decades, we found an overall decreasing trend in stratification in all the southern hemisphere’s abyssal ocean basins, particularly in the near-bottom layer that is denser than 46.0 sigma4. The deep-reaching reduction in stratification is most evident in abyssal ocean basins south of 20 °S, suggesting that it is an effect of the warming AABW. The AABW is carried northward by the lowest limb of the meridional overturning circulation that flows through abyssal passages as it travels from one basin to the next. In these passages, the flow may be hydraulically controlled, with the deepest part of the AABW being blocked by sills. The largest warming rate of the AABW is found not at the seabed, but hundreds of to a thousand meters above the seabed, upstream of three abyssal passages: the Samoan Passage in the Southern Pacific Ocean, the Vema Channel connecting the Argentine and the Brazil Basins, and a deep fracture zone canyon in the eastern Brazil Basin. As a consequence, there is an increase/decrease in stratification below/above the level of the warming rate maxima, which is found near (usually below) the strongly stratified interface above the abyssal layer. The peak of N2 has decreased by up to 20% upstream of these three passages over the past three decades, which changes the upstream condition of the hydraulic control in the channel.  To explore how the change in upstream stratification affects hydraulic control of abyssal channel flow, we propose an idealized hydraulic theory that allows for nonuniform N2 to investigate the critical flow transport as a function of the shape and magnitude of N2 profiles."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-02-02T12:00:00Z"
-date_end: "2022-02-02T13:00:00Z"
+date: "2022-03-04T15:45:00Z"
+date_end: "2022-03-04T15:50:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Recording**](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c911ad0-5d39-46f9-a0b1-ae30012ce81e)'
+  caption: 'Image credit: [**S.Tan**](https://osm2022.secure-platform.com/a/solicitations/3/sessiongallery/schedule/items/767)'
   focal_point: Right
 
 # links:
