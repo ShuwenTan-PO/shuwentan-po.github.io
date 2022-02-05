@@ -10,18 +10,17 @@ role: Postdoctoral Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Columbia University of Lamont-Doherty Earth Observatory
+- name: Columbia University | Lamont-Doherty Earth Observatory
   url: https://lamont.columbia.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in studying the flow-topography interaction in the deep ocean & in a changing climate. I am also interested in using data-driven analysis & machine learning to interpret physics from the accumulating mass of
-ocean data.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Flow over Topography
-- Data-driven Analysis
-- Deep Ocean Circulation
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 # Education to show in About widget
 education:
