@@ -5,7 +5,7 @@ title: "Flow-Topography Interactions in the Samoan Passage"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Girton J. B.
+- J. B. Girton
 - J. B. Mickett
 - Z. Zhao
 - M. H. Alford

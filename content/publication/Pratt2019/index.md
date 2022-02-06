@@ -5,7 +5,7 @@ title: "Pacific Abyssal Transport and Mixing: Through the Samoan Passage versus 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Pratt L. J.
+- L. J. Pratt
 - G. Voet
 - A. Pacini
 - admin
