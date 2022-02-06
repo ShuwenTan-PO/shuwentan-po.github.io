@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shuwen Tan
+title: Shuwen Tan (谭舒文)
 
 # Is this the primary user of the site?
 superuser: true
