@@ -26,9 +26,9 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: Deep Ocean Change
-    tag: DOC
+    tag: Deep Ocean Change
   - name: Rotating Hydraulics
-    tag: RH
+    tag: Rotating Hydraulics
 
 
 design:
