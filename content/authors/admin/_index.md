@@ -19,8 +19,8 @@ bio: Human oceanographer
 # Interests to show in About widget
 interests:
 - Flow over Topography
-- Data-driven Analysis
 - Deep Ocean Circulation
+- Data-driven Analysis
 
 # Education to show in About widget
 education:
