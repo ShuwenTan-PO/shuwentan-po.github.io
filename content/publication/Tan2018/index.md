@@ -5,7 +5,7 @@ title: "The Observed Impacts of the Two Types of El Niño on the North Equatoria
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Tan S.
+- admin
 - H. Zhou
 
 # # Author notes (optional)

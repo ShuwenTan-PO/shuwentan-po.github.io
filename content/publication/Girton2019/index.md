@@ -14,7 +14,7 @@ authors:
 - G. S. Carter
 - K. A. Pearson-Potts
 - L. J. Pratt
-- S. Tan
+- admin
 - J. M. Klymak
 
 # # Author notes (optional)

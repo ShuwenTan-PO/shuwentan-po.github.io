@@ -12,7 +12,7 @@ authors:
 - J. Wang
 - Y. Yang
 - X. Hu
-- S. Tan
+- admin
 - H. Zhou
 - A. K. Wardana
 - D. Surinati

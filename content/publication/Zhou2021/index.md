@@ -7,7 +7,7 @@ title: "The observed North Equatorial Counter Current in the far western Pacific
 authors:
 - Zhou H.
 - H. Liu
-- S. Tan
+- admin
 - W. Yang
 - Y. Li
 - X. Liu

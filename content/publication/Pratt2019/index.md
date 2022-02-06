@@ -8,7 +8,7 @@ authors:
 - Pratt L. J.
 - G. Voet
 - A. Pacini
-- S. Tan
+- admin
 - M. H. Alford
 - G. S. Carter
 - J. B. Girton
