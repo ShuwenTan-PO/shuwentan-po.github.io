@@ -18,11 +18,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-02-05T00:00:00Z"
+date: "2020-09-01T00:00:00Z"
 doi: "https://doi.org/10.1175/JPO-D-19-0326.1"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-09-01T00:00:00Z"
+publishDate: "2022-02-06T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
