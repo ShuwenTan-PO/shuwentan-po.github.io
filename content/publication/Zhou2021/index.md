@@ -5,9 +5,9 @@ title: "The observed North Equatorial Counter Current in the far western Pacific
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- H. Zhou
+- Zhou H.
 - H. Liu
-- admin
+- S. Tan
 - W. Yang
 - Y. Li
 - X. Liu

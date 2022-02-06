@@ -5,7 +5,7 @@ title: "A Spatial Geography of Abyssal Turbulent Mixing in the Samoan Passage"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- G. S. Carter
+- Carter G. S.
 - G. Voet
 - M. H. Alford
 - J. B. Girton
@@ -14,7 +14,7 @@ authors:
 - L. J. Pratt
 - K. A. Pearson-Potts
 - J. M. Cusack
-- admin
+- S. Tan
 
 
 # # Author notes (optional)

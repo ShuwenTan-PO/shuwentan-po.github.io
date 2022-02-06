@@ -5,14 +5,14 @@ title: "Persistent Turbulence in the Samoan Passage"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- J. M. Cusack
+- Cusack J. M. 
 - G. Voet
 - M. H. Alford
 - J. B. Girton
 - G. S. Carter
 - L. J. Pratt
 - K. A. Pearson-Potts
-- admin
+- S. Tan
 
 
 # # Author notes (optional)

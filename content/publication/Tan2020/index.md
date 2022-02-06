@@ -5,7 +5,7 @@ title: "Hydraulics and Mixing of the Deep Overflow in the Lifamatola Passage of 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
+- Tan S.
 - L. J. Pratt
 - D. Yuan
 - C. Corvianawatie

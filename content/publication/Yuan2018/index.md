@@ -5,14 +5,14 @@ title: "Observed Transport Variations in the Maluku Channel of the Indonesian Se
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- D. Yuan
+- Yuan D.
 - X. Li
 - Z. Wang
 - Y. Li
 - J. Wang
 - Y. Yang
 - X. Hu
-- admin
+- S. Tan
 - H. Zhou
 - A. K. Wardana
 - D. Surinati
