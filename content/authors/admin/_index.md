@@ -78,4 +78,4 @@ highlight_name: false
 
 Shuwen Tan is a US GO-SHIP Postdoctoral Fellow at the Lamont-Doherty Earth Observatory of Columbia University. She is broadly interested in physical processes in the Earth's Oceans. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/Tan_CV_202111.pdf" "newtab" >}}CV{{< /staticref >}}.
