@@ -20,7 +20,7 @@ authors:
 # - "Equal contribution"
 
 date: "2022-04-05T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1017/jfm.2022.212"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-04-05T00:00:00Z"
